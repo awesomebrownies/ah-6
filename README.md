@@ -5,7 +5,7 @@ It uses transistors and glows in the dark. The brightness of the LED's can be ad
 
 ## Schematic
 
-![Screenshot from 2025-05-17 20-01-18](https://github.com/user-attachments/assets/78a71cf0-5a90-4d44-8e98-a9f084c55a15)
+![Screenshot from 2025-05-17 20-41-20](https://github.com/user-attachments/assets/726a5d01-0ce1-44ac-b176-b28d0236a6fb)
 
 ## 3D Model
 
